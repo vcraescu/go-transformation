@@ -1,4 +1,4 @@
-module github.com/vcraescu/transformation
+module github.com/vcraescu/go-transformation
 
 go 1.14
 
